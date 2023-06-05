@@ -21,7 +21,7 @@
     display: none;
   }
   nav a {
-    padding: 0;
+    padding: 15px;
     border: 0;
   }
   nav a:nth-child(2),
@@ -70,6 +70,27 @@
   }
 
   .scope,
+  .primary {
+    height: auto;
+  }
+
+  .scope {
+    margin-bottom: 0px !important;
+  }
+
+  .goal {
+    height: auto;
+  }
+
+  .team {
+    margin-top: 0px !important;
+    height: auto;
+  }
+
+  .timeline {
+    height: auto;
+  }
+
   .primary {
     height: auto;
   }
