@@ -45,3 +45,27 @@
     margin: 0;
   }
 }
+
+@media only screen and (min-width: 576px) and (max-width: 991px) {
+  /* PROJECT CHARTER */
+  .goal {
+    height: auto;
+  }
+
+  .team {
+    margin-top: 0px !important;
+    height: auto;
+  }
+
+  .scope {
+    height: auto;
+  }
+
+  .timeline {
+    height: auto;
+  }
+
+  .primary {
+    height: auto;
+  }
+}
